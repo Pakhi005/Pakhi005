@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Pakhi Kumari 👋
 
-<!--
-**Pakhi005/Pakhi005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (Class of 2027)  
+💻 Aspiring Data Science & Software Engineer  
+🚀 Actively preparing for internships,AI ML ,  DSA & projects  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- C++ | Python | SQL  
+- Pandas | NumPy | Excel | Power BI  
+- HTML | CSS | JavaScript  
+- Git | GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm Working On
+- LeetCode(DSA)
+- Data Science and Web Dev  Projects
+- Hackathons & Real-world Apps
+
+## 🧩 Featured Projects
+- TruthLens — Deepfake Detection System  
+- Hostel Outpass Management System  
+- Society Management System  
+
+## 📫 Connect With Me
+- Email: jhapakhi58@gmail.com  
+- LinkedIn: www.linkedin.com/in/pakhi-kumari-23b00728b
